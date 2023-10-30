@@ -17,4 +17,8 @@ fun main(){ // not a general function, but a starting point for our application,
         x--
     }
     println("While loop is done!")
+    x = 1
+    do{
+        x++
+    }while (x<= 10)
 }
